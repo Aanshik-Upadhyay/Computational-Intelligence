@@ -1,1 +1,1 @@
-These are all projects I worked on for a class I took recently in Computational Intelligence.
+These are all projects I worked on for a recent class in computational intelligence. Please find all details related to the assignment within the python file itself!
